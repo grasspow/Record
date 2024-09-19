@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Record</string>
+    <string name="title_activity_main">Record</string>
+    <string name="package_name">io.grasspow.record</string>
+    <string name="custom_url_scheme">io.grasspow.record</string>
+</resources>

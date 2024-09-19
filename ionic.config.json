@@ -1,0 +1,7 @@
+{
+  "name": "Record",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
